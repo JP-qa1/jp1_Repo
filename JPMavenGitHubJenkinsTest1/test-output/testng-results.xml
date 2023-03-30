@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-30T11:51:24 EDT" name="Default suite" finished-at="2023-03-30T11:51:24 EDT" duration-ms="38">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="JPTest1f_bothsmkreg2.method1f()[pri:0, instance:JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2@5c30a9b0]" name="method1f" class="JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2"/>
+      </group> <!-- SmokeTest -->
+      <group name="RegressionTest">
+        <method signature="JPTest1f_bothsmkreg2.method1f()[pri:0, instance:JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2@5c30a9b0]" name="method1f" class="JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test started-at="2023-03-30T11:51:24 EDT" name="Default test" finished-at="2023-03-30T11:51:24 EDT" duration-ms="38">
+      <class name="JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2">
+        <test-method signature="method1f()[pri:0, instance:JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2@5c30a9b0]" started-at="2023-03-30T11:51:24 EDT" name="method1f" finished-at="2023-03-30T11:51:24 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1f -->
+      </class> <!-- JPMavenGitHubJenkinsTest1pkg.JPTest1f_bothsmkreg2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
